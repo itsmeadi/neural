@@ -1,0 +1,6 @@
+train.py	For training Purpose
+tf.py		For classification
+driver.java	uses tf.py for classification
+complaints	A file of complaints
+train.pickle	train.py dumps training data here 
+

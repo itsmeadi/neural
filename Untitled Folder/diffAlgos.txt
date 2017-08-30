@@ -1,0 +1,14 @@
+
+
+Decision tree
+SVM
+Bayesian
+Neural Network
+K Nearest Neighbors
+QLearning
+Genetic Algorithm
+Markov Decision Processes
+Convolutional neural networks
+linear regression or logistic regression
+Boosting, bagging, ensambling
+Random Hill Climbing or Simulated Annealing
